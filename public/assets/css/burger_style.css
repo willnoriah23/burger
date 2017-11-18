@@ -17,4 +17,10 @@ body {
 
 h2 {
 	color: #fff;
+	font-size: 50px;
+}
+
+#submit {
+	width: 100px;
+	font-size: 20px;
 }
