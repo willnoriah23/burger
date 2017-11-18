@@ -1,0 +1,20 @@
+body {
+	background-color: #00007E;
+}
+
+.form-group {
+  margin-bottom: 20px;
+}
+
+#bg {
+	height: 50px;
+	width: 200px;
+}
+
+#submit {
+	background-color: #E7FF13;
+}
+
+h2 {
+	color: #fff;
+}

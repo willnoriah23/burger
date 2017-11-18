@@ -1,4 +1,4 @@
-var connection = require("../config/orm.js");
+var orm = require("../config/orm.js");
 // Call the functions created in the orm.js in a variable
 var burger = {
 	all: function(cb) {
