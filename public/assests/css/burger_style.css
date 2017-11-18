@@ -1,1 +1,7 @@
-burger_style.css
+body {
+	background-color: #205ACD;
+}
+
+.form-group {
+  margin-bottom: 20px;
+}

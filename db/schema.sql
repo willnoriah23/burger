@@ -12,3 +12,4 @@ CREATE TABLE `burger` (
 	
 	PRIMARY KEY (id));
 
+);
